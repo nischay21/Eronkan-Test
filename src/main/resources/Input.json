@@ -1,5 +1,5 @@
 {
-"Exam Fee" :{
+"Late Payment Fee" :{
 "INDIAN" :{
 "ALL_COURSES" :{
 "ALL_LEVEL" :{
@@ -31,7 +31,7 @@
 },
 "Application Fee" :{
 "INDIAN" :{
-" ALL_COURSES " :{
+"ALL_COURSES" :{
 "UG" :{
 "amount" : 200
 },
